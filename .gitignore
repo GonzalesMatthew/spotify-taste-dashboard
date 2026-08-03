@@ -1,0 +1,21 @@
+# Environment
+backend/.env
+.env
+
+# Local notes
+interview-notes.txt
+
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
