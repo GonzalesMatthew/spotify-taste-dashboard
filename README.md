@@ -22,6 +22,12 @@ Built with Vue 3 + TypeScript on the frontend and Python FastAPI on the backend.
 - Token refresh support
 - Dark Spotify-inspired UI
 
+## Demo
+
+![Spotify Taste Dashboard](image.png)
+
+Watch a short walkthrough: [Loom Demo](https://www.loom.com/share/ce47349bfa3346b382a37204712429d8)
+
 ## Tech Stack
 
 Frontend:
